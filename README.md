@@ -2,11 +2,12 @@
 This repository is the collection of the works I have performed during the workshop entitled "Empowering insights: Data science and Big data analysis".
 
 ## Key concepts I learnt:
-✅ Applied python programming to industrial usage.
-✅ Using Jupyter-notebook & google collab, thus importing libraries to its environmnet.
-✅ Import a dataset for local machine and also importing a dataset from hosted services.
-✅ Data cleaning procedure using the SQL queries.
-✅ Visualization of the dataset using the matplotlib library
+
+- Applied python programming to industrial usage.
+- Using Jupyter-notebook & google collab, thus importing libraries to its environmnet.
+- Import a dataset for local machine and also importing a dataset from hosted services.
+- Data cleaning procedure using the SQL queries.
+- Visualization of the dataset using the matplotlib library
 ---
 
 ## Getting started:
