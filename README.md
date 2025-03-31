@@ -18,7 +18,7 @@ If you are working locally on vs code or other applications:
 3. Activate the environment using "venv/Scripts/activate" on the powershell (note: venv is my virtual environment name change it according to yours)
 
 ## Else:
-1. Use the jupyter-notebook throught the Anaconda distribution.
+1. Use the jupyter-notebook through the Anaconda distribution.
 2. Use google collab.
 ---
 
